@@ -3,9 +3,7 @@ Recent earthquakes map (default centered around Turkey) using streamlit, streaml
 
 ## What to install
 
-    pip install click==8.0
-    pip install streamlit
-    pip install streamlit_folium
+    pip install -r requirements.txt
     
 
 
