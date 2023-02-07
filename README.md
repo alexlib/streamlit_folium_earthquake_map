@@ -3,8 +3,10 @@ Recent earthquakes map (default centered around Turkey) using streamlit, streaml
 
 ## What to install
 
+    pip install click==8.0
     pip install streamlit
     pip install streamlit_folium
+    
 
 
 ## How to run: 
@@ -14,4 +16,4 @@ Recent earthquakes map (default centered around Turkey) using streamlit, streaml
 
 ## Where is the Streamlit Cloud app
 
-    
+
